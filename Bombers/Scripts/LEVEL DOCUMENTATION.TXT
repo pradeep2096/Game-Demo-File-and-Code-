@@ -1,0 +1,3 @@
+Lvl 1-Basic Running,Dodging meteors,One hit reduces 20 health,Reach End.
+Lvl 2-Collect Powerups,Faster Meteors ,Reach End
+Lvl 3-Collect Powerups,Finish Lvl in given Time,Uneven Speed of meteors,One meteor hit reduces 40 health,Reach end. 
